@@ -11,8 +11,8 @@ intents.messages = True
 intents.guilds = True
 intents.members = True
 intents.message_content = True
-binance_api_key = "BL1oxnAIJc14Bng5jB1GDXQkLP3ZAxsT9Ng9RMxPsoGKighD1KO5f2iDFhg3CQaJ"
-binance_secret = "x4fGJAEIcoUEsgZJ66TKREk1jic8ULAgsFUq90wBtxowB9m6lJm2LEdafFxR5m7n"
+binance_api_key = "Sua api da binance"
+binance_secret = "sua binance secret key"
 Bot = commands.Bot(command_prefix=".", intents=intents)
 
 # Configurações da API da Binance
