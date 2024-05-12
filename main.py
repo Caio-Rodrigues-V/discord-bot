@@ -180,4 +180,4 @@ async def limpar(ctx, quantidade: int):
 
 
 # Inicia o bot
-Bot.run("MTIwNDA4NjczNTA1OTgxNjQ4OA.GRyUoN.VEe3-EEGreHk2AqVPEM_YZ2FQlxRtOz9tfn-yA")
+Bot.run("seu token")
