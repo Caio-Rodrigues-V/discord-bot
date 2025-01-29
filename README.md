@@ -65,6 +65,6 @@ Contribuições são bem-vindas!
 Sinta-se à vontade para abrir issues ou pull requests para melhorias e correções.
 
 
-
+Desenvolvido por Caio Renato Rodrigues Vicente
 
 ****
